@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Chandra Shekar Reddy
+
+🎯 **Finance Professional | Aspiring Data Analyst | Lifelong Learner**
+
+Welcome to my GitHub! With over **12 years of experience** in investment operations and financial data research, I am now expanding my expertise into **data analytics and machine learning**. I recently completed a **Post Graduate Diploma in Data Science** from Osmania University, where I worked on projects that combined domain knowledge with data-driven problem solving.
+Thanks for visiting! I'm always open to feedback, collaboration, and learning opportunities. 😊
+## 📫 Let's Connect!
+
+- 📧 Email: chandrashekar.manda@gmail.com  
 
 <!--
 **chandrashekarreddymanda/chandrashekarreddymanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
